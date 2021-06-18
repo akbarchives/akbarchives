@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rizqi Akbar as @akbarchives
+- 👋 Hi, I’m Rizqi Akbar 
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning PHP Codeigniter4
 - 📫 How to reach me [![Instagram badge](https://img.shields.io/badge/Instagram-405DE6?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/randikadwim/&link=)](https://www.instagram.com/riskkyakbar/)
