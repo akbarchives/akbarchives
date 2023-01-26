@@ -5,13 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akbarchives" alt="akbarchives" /></a> </p>
 
-- 🔭 I’m currently working on **BWA Store**
-
 - 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 Here is my linkedin account [https://www.linkedin.com/in/mrizqiakbar/](https://www.linkedin.com/in/mrizqiakbar/)
 
 - 📫 How to reach me **rizqiakbar2412@gmail.com**
+- https://akbarchives.github.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
